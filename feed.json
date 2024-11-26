@@ -1,24 +1,24 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Valaxy Theme Yun",
+    "title": "史努比的小站",
     "home_page_url": "https://valaxy.site/",
     "feed_url": "https://valaxy.site/feed.json",
-    "description": "Valaxy Theme Yun Preview.",
-    "icon": "https://valaxy.site/valaxy-logo.png",
+    "description": "Happiness is a warm puppy",
+    "icon": "https://pic.cnblogs.com/avatar/2825812/20220402101423.png",
     "author": {
-        "name": "云游君",
+        "name": "查理",
         "url": "https://valaxy.site"
     },
     "items": [
         {
             "id": "",
-            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
+            "content_html": "<h2>Valaxy</h2>\n<p>幸福是一只温暖的小狗</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify <code>valaxy.config.ts</code> to custom your b</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/hello-valaxy\" target=\"_blank\">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>",
             "url": "https://valaxy.site/posts/hello-valaxy",
-            "title": "Hello, Valaxy!",
-            "date_modified": "2022-04-01T00:00:00.000Z",
-            "date_published": "2022-04-01T00:00:00.000Z",
+            "title": "Hello, 查理!",
+            "date_modified": "2024-11-25T00:00:00.000Z",
+            "date_published": "2024-11-26T00:00:00.000Z",
             "author": {
-                "name": "云游君",
+                "name": "查理",
                 "url": "https://valaxy.site"
             }
         }

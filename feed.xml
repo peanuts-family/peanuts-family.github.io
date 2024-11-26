@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Valaxy Theme Yun</title>
+        <title>史努比的小站</title>
         <link>https://valaxy.site/</link>
-        <description>Valaxy Theme Yun Preview.</description>
-        <lastBuildDate>Mon, 25 Nov 2024 09:09:35 GMT</lastBuildDate>
+        <description>Happiness is a warm puppy</description>
+        <lastBuildDate>Tue, 26 Nov 2024 03:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Valaxy Theme Yun</title>
-            <url>https://valaxy.site/valaxy-logo.png</url>
+            <title>史努比的小站</title>
+            <url>https://pic.cnblogs.com/avatar/2825812/20220402101423.png</url>
             <link>https://valaxy.site/</link>
         </image>
-        <copyright>CC BY-NC-SA 4.0 2024 © 云游君</copyright>
+        <copyright>CC BY-NC-SA 4.0 2024 © 查理</copyright>
         <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hello, Valaxy!]]></title>
+            <title><![CDATA[Hello, 查理!]]></title>
             <link>https://valaxy.site/posts/hello-valaxy</link>
             <guid>https://valaxy.site/posts/hello-valaxy</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
+<p>幸福是一只温暖的小狗</p>
 <p>Write your first post!</p>
 <h2>Usage</h2>
-<p>Modify `valaxy</p>
+<p>Modify <code>valaxy.config.ts</code> to custom your b</p>
 <br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (云游君)</author>
+            <author>i@valaxy.site (查理)</author>
         </item>
     </channel>
 </rss>
